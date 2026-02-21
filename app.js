@@ -20,7 +20,7 @@ copyIconEl.addEventListener("click", ()=> {
     }
 });
 
-// 0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()_+?:[]{}ABCDEFGHIJKLMNOPQRSTUVWXYZ
+// 0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()_+?:[]{}ABCDEFGHIJKLMNOPQRSTUVWXYZ (All the characters that are able to be used for the generating of a password)
 
 // Generate a random password of 18 characters
 function createPassword() {
